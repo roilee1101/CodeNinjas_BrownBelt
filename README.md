@@ -6,3 +6,5 @@ This repository is made to show progression through the Belt and to give example
 
 **All of these projects have been completed by me**
 
+### Date: June 22, 2025 @ 12:32PM
+**Finished all 17 Activities**
