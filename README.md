@@ -10,4 +10,4 @@ This repository is made to show progression through the Belt and to give example
 **Finished all 17 Activities**
 
 ## Date: June 24, 2025 @ 2: 48 PM
-**Updated Final 2 Activities which had errors. -- Finalized and Finished
+**Updated Final 2 Activities which had errors. -- Finalized and Finished**
